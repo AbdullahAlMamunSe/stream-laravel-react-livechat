@@ -20,5 +20,9 @@
         "postcss": "^8.1.14",
         "react": "^16.2.0",
         "react-dom": "^16.2.0"
+    },
+    "dependencies": {
+        "react-router-dom": "^5.2.0",
+        "stream-chat": "^3.8.0"
     }
 }
